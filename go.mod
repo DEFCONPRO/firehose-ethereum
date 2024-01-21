@@ -33,7 +33,7 @@ require (
 	go.uber.org/atomic v1.10.0
 	go.uber.org/multierr v1.10.0
 	go.uber.org/zap v1.26.0
-	google.golang.org/grpc v1.58.0
+	google.golang.org/grpc v1.58.3
 	google.golang.org/protobuf v1.31.0
 )
 
